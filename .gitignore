@@ -1,0 +1,6 @@
+data/raw/*
+data/processed/*
+*.pth
+__pycache__/
+.DS_Store
+*.egg-info/
