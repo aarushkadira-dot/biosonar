@@ -28,10 +28,10 @@ FULL_NAMES = {
 # dark ocean color scheme - matches the marine bio theme :)
 # BG is basically black navy, accents are cyan and green
 BG      = "#0a0f1e"
-ACCENT  = "#00d4ff"  # cyan - used for train lines and titles
-ACCENT2 = "#00ff9d"  # green - used for val lines and good f1 scores
-TEXT    = "#e8f4f8"  # off-white so it reads on dark bg
-GRID    = "#1a2540"  # subtle dark blue grid lines
+ACCENT  = "#00d4ff"
+ACCENT2 = "#00ff9d"
+TEXT    = "#e8f4f8"
+GRID    = "#1a2540"
 
 
 def style():

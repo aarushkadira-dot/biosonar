@@ -1,0 +1,10 @@
+{
+  "beaked_whale": 0,
+  "blue_whale": 1,
+  "false_killer_whale": 2,
+  "fin_whale": 3,
+  "humpback_whale": 4,
+  "orca": 5,
+  "pilot_whale": 6,
+  "sperm_whale": 7
+}
